@@ -12,7 +12,7 @@ The goals of this tool are:
   - To point out subtle caveats, corner cases and pitfalls, that may cause a
     GigaSpaces XAP grid to fail under future circumstances.
 
-ShellCheck is written in Autoconf and M4 macros, so it should be supported by any Unix/Linux machine.
+This tool is written in Autoconf and M4 macros, so it should be supported by any Unix/Linux machine.
 
 ## Building the tool
 
