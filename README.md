@@ -52,4 +52,8 @@ The following is a list of supported macros
 | Macro Name  | M4 library | Purpose  | 
 | ------------- | ------------- | ------------- | 
 | AC_CHECK_JAVA_HOME  | ax_check_java_home.m4  | Checks for JAVA_HOME and JDK | 
-| AC_CHECK_JAVA_HOME  | ax_check_java_home.m4  | Checks for JAVA_HOME and JDK |
+| AX_XAP_ULIMIT  | ax_xap_os.m4  | Checks for ulimit settings |
+| AX_XAP_LOOKUPS  | ax_xap_discovery.m4  | Checks for LUS discovery settings and connectivity |
+| AX_XAP_RUNTIME_ENV  | ax_xap_runtime.m4  | Checks for XAP runtime variables GSA/GSC/GSM/LUS |
+| AX_XAP_JVM_CMS  | ax_xap_jvm_cms.m4  | Checks for GSC JVM settings for CMS collector |
+
