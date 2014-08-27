@@ -47,4 +47,9 @@ Verify the test results:
 
 To enable/disable specific tests, simply edit the configure-xap-prod.ac script to uncomment certain sections and re-build:
 
- 
+The following is a list of supported macros 
+
+| Macro Name  | M4 library | Purpose  | 
+| ------------- | ------------- | ------------- | 
+| AC_CHECK_JAVA_HOME  | ax_check_java_home.m4  | Checks for JAVA_HOME and JDK | 
+| AC_CHECK_JAVA_HOME  | ax_check_java_home.m4  | Checks for JAVA_HOME and JDK |
