@@ -55,5 +55,7 @@ The following is a list of supported macros
 | AX_XAP_ULIMIT  | ax_xap_os.m4  | Checks for ulimit settings |
 | AX_XAP_LOOKUPS  | ax_xap_discovery.m4  | Checks for LUS discovery settings and connectivity |
 | AX_XAP_RUNTIME_ENV  | ax_xap_runtime.m4  | Checks for XAP runtime variables GSA/GSC/GSM/LUS |
+| AX_XAP_RUNTIME_FILES  | ax_xap_runtime_files.m4  | Checks for externalizing work/deploy/log folders |
 | AX_XAP_JVM_CMS  | ax_xap_jvm_cms.m4  | Checks for GSC JVM settings for CMS collector |
+| AX_XAP_LRMI  | ax_xap_lrmi.m4  | Checks for LRMI client/server connection pool settings |
 
